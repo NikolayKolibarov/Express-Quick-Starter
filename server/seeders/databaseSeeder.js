@@ -1,5 +1,5 @@
-let usersCollectionSeeder = require('./usersCollectionSeeder');
+let usersCollectionSeeder = require('./usersCollectionSeeder')
 
 module.exports = () => {
-    usersCollectionSeeder();
-};
+  usersCollectionSeeder()
+}
